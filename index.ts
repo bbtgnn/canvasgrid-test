@@ -1,4 +1,4 @@
-import { Point, Size, Rectangle, UnitGrid } from "../index";
+import { Point, Size, Rectangle, UnitGrid } from "@bbtgnn/canvasgrid";
 import paper from "paper";
 
 // Getting canvas
